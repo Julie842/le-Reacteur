@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Portfolio - Julie Gérard</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header>
+        <h1>Mon portfolio</h1>
+    </header>
+
+    <!-- Ajout du container principal pour appliquer tes styles de carte de fond -->
+    <main class="portfolio-container">
+      
+      <!-- Harmonisation de la navigation avec la classe .main-nav de ton CSS -->
+      <nav class="main-nav">
+        <a href="#about-me">A propos de moi</a>
+        <a href="#education">Formation</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <!-- Encapsulation de l'image principale pour l'effet de zoom moderne au survol[cite: 1, 2] -->
+      <div class="hero-image-container">
+        <img class="main-image" src="img/coder.jpeg" alt="coding" />
+      </div>
+
+      <!-- Section À propos avec application de la classe de section[cite: 1, 2] -->
+      <section id="about-me" class="portfolio-section">
+        <h2>A propos de moi</h2>
+        <div class="informations">
+          <!-- Ajout de la classe .profile-pic pour arrondir et styliser ta photo[cite: 1, 2] -->
+          <img class="profile-pic" src="img/photoportfolio.jpg" alt="Me" />
+          <div class="informations-texts">
+            <p class="name">Julie Gérard</p>
+            <!-- Ton CSS applique déjà Saint-Quentin en italique ici[cite: 1, 2] -->
+            <p class="city">Saint-Quentin</p>
+          </div>
+        </div>
+
+        <!-- Ajout de la classe .bio-text pour aligner proprement ton paragraphe de présentation -->
+        <div class="bio-text">
+          <p>Actuellement, je suis en pleine réorientation professionnelle vers le développement web. 
+            Animée par une forte curiosité pour la création numérique, j'ai choisi de me former en autodidacte sur les langages fondamentaux que sont l'HTML, le CSS et le JavaScript. 
+            J'ai trouvé une réelle passion dans le développement back et front-end et je souhaite aujourd'hui approfondir mes compétences dans ce domaine. Je suis particulièrement intéressée par la création d'interfaces utilisateur modernes, interactives et inclusives, et je suis prête à m'investir pleinement pour maîtriser les outils et frameworks les plus récents. 
+            À long terme, mon objectif est d'élargir mes compétences pour devenir développeuse full-stack, afin de pouvoir gérer à la fois le côté client et le côté serveur d'un site ou d'une application web. Ma motivation, ma soif d'apprendre et ma capacité d'adaptation sont mes principaux atouts pour mener à bien cette transition.</p>
+        </div>
+      </section>
+
+      <!-- Section Formation (arrière-plan secondaire alterné + Grille de logos moderne)[cite: 1, 2] -->
+      <section id="education" class="portfolio-section secondary-bg">
+        <h2>Formation</h2>
+        <p class="section-subtitle">Les technologies sur lesquelles je me suis formée avec Konexio :</p>
+        
+        <!-- Organisation des logos de compétences dans la grille stylisée[cite: 1, 2] -->
+        <div class="tech-grid">
+          <div class="tech-card">
+            <img src="img/html.png" alt="HTML" />
+            <span>HTML</span>
+          </div>
+          <div class="tech-card">
+            <img src="img/css.png" alt="CSS" />
+            <span>CSS</span>
+          </div>
+          <div class="tech-card">
+            <img src="img/javascript.png" alt="JavaScript" />
+            <span>JavaScript</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section Contact avec disposition en capsules arrondies[cite: 1, 2] -->
+      <section id="contact" class="portfolio-section">
+        <h2>Contactez-moi</h2>
+
+        <div class="contact-links">
+          <div class="contact-item">
+            <img src="img/mail.jpg" alt="Email"/>
+            <a href="https://webmail.sfr.fr/mailbox.html#inbox/VF_pertinent">julie.gerard743@sfr.fr</a>
+          </div>
+          
+          <div class="contact-item">
+            <img src="img/linkedin.png" alt="LinkedIn"/>
+            <a href="https://www.linkedin.com/in/julie-gerard-417019198/" target="_blank">www.linkedin.com/in/julie-gerard-417019198</a>
+          </div>
+    
+          <div class="contact-item">
+            <img src="img/github.png" alt="GitHub"/>
+            <a href="https://github.com/Julie842" target="_blank">https://github.com/Julie842</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Projet réalisé par Julie Gérard</p>
+    </footer>
+
+  </body>
+</html>
