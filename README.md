@@ -16,7 +16,7 @@ Le portfolio est structuré en plusieurs sections fluides et responsives :
 * **Formation :** grille moderne mettant en avant les technologies maîtrisées grâce à Konexio (**HTML**, **CSS**, **JavaScript**).
 * **Contact :** liens interactifs sous forme de capsules arrondies permettant de la joindre par e-mail, LinkedIn ou GitHub.
 * **Pied de page (`Footer`) :** mention des droits du projet.
-
+  
 ---
 
 ## 🛠️ Technologies utilisées
