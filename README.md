@@ -8,20 +8,20 @@ Ce projet est mon portfolio personnel en ligne réalisé dans le cadre d'une ré
 ## 🚀 Fonctionnalités et sections du site
 
 Le portfolio est structuré en plusieurs sections fluides et responsives :
-* **En-tête (`Header`) :** Titre principal du portfolio.
-* **Navigation (`Navigation`) :** Liens d'accès rapide vers les différentes sections de la page (*À propos de moi*, *Formation*, *Contact*).
-* **Image d'en-tête (Hero Image) :** Illustration dynamique avec un effet de zoom moderne au survol
-* **À propos de moi :** Présentation personnelle, incluant une photo de profil, la ville (Saint-Quentin) et un paragraphe détaillé sur la reconversion professionnelle et les objectifs full-stack.
-* **Formation :** Grille moderne mettant en avant les technologies maîtrisées grâce à Konexio (**HTML**, **CSS**, **JavaScript**).
-* **Contact :** Liens interactifs sous forme de capsules arrondies permettant de la joindre par e-mail, LinkedIn ou GitHub.
-* **Pied de page (`Footer`) :** Mention des droits du projet.
+* **En-tête (`Header`) :** titre principal du portfolio.
+* **Navigation (`Navigation`) :** liens d'accès rapide vers les différentes sections de la page (*À propos de moi*, *Formation*, *Contact*).
+* **Image d'en-tête (Hero Image) :** ilustration dynamique avec un effet de zoom moderne au survol
+* **À propos de moi :** présentation personnelle, incluant une photo de profil, la ville et un paragraphe détaillé sur la reconversion professionnelle et les objectifs full-stack.
+* **Formation :** grille moderne mettant en avant les technologies maîtrisées grâce à Konexio (**HTML**, **CSS**, **JavaScript**).
+* **Contact :** liens interactifs sous forme de capsules arrondies permettant de la joindre par e-mail, LinkedIn ou GitHub.
+* **Pied de page (`Footer`) :** mention des droits du projet.
 
 ---
 
 ## 🛠️ Technologies utilisées
 
-* **HTML5** : Structure sémantique des pages web
-* **CSS3** : Mise en page moderne, gestion des variables CSS (`:root`), flexbox et CSS Grid, avec une conception entièrement *responsive*.
+* **HTML5** : structure sémantique des pages web
+* **CSS3** : mise en page moderne, gestion des variables CSS (`:root`), flexbox et CSS Grid, avec une conception entièrement *responsive*.
 
 ---
 
