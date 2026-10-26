@@ -5,7 +5,7 @@ Ce projet est mon portfolio personnel en ligne réalisé dans le cadre d'une ré
 
 ---
 
-## 🚀 Fonctionnalités et Sections du Site
+## 🚀 Fonctionnalités et sections du site
 
 Le portfolio est structuré en plusieurs sections fluides et responsives :
 * **En-tête (`Header`) :** Titre principal du portfolio.
@@ -18,14 +18,14 @@ Le portfolio est structuré en plusieurs sections fluides et responsives :
 
 ---
 
-## 🛠️ Technologies Utilisées
+## 🛠️ Technologies utilisées
 
 * **HTML5** : Structure sémantique des pages web
 * **CSS3** : Mise en page moderne, gestion des variables CSS (`:root`), flexbox et CSS Grid, avec une conception entièrement *responsive*.
 
 ---
 
-## 📂 Structure des Fichiers
+## 📂 Structure des fichiers
 
 ```text
 ├── index_2.html      # Fichier HTML principal du portfolio
