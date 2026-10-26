@@ -10,7 +10,7 @@ Ce projet est mon portfolio personnel en ligne réalisé dans le cadre d'une ré
 Le portfolio est structuré en plusieurs sections fluides et responsives :
 * **En-tête (`Header`) :** titre principal du portfolio.
 * **Navigation (`Navigation`) :** liens d'accès rapide vers les différentes sections de la page (*À propos de moi*, *Formation*, *Contact*).
-* **Image d'en-tête (Hero Image) :** ilustration dynamique avec un effet de zoom moderne au survol
+* **Image d'en-tête (Hero Image) :** illustration dynamique avec un effet de zoom moderne au survol
 * **À propos de moi :** présentation personnelle, incluant une photo de profil, la ville et un paragraphe détaillé sur la reconversion professionnelle et les objectifs full-stack.
 * **Formation :** grille moderne mettant en avant les technologies maîtrisées grâce à Konexio (**HTML**, **CSS**, **JavaScript**).
 * **Contact :** liens interactifs sous forme de capsules arrondies permettant de la joindre par e-mail, LinkedIn ou GitHub.
